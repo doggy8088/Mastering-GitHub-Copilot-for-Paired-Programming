@@ -1,92 +1,91 @@
 # 開始使用 GitHub Copilot for Azure
 
-解鎖更高效的工作流程，提升您在 Azure Preview 上的生產力。這份快速入門指南將帶您了解所有必要知識，從準備前置條件到在 Visual Studio Code 中安裝 GitHub Copilot for Azure 擴展。到最後，您將能夠編寫您的第一個提示，充分利用 Azure 平台的潛力。
+解除更高效的工作流程，提升您在 Azure Preview 上的生產力。這份快速入門指南將帶您了解所有必要資訊，從準備前置條件到在 Visual Studio Code 中安裝 GitHub Copilot for Azure 擴充功能。最後，您將能夠編寫您的第一個提示，充分運用 Azure 平台的潛力。
 
 ![GitHub Copilot for Azure](../../../09-Using-GitHub-Copilot-for-Azure-to-Deploy-to-Cloud/images/intro.gif "GitHub Copilot for Azure")
- 
+
 </header>
 
-- **這個指南適合誰**：開發人員、運維人員（ITPRO）和 AI 工程師。
-- **您將學到什麼**：開始使用 GitHub Copilot for Azure 的設置步驟。
-- **您將構建什麼**：您將自信地設置您的 AI 啟用工作區。
- 
+* **適用對象**：開發人員、資訊技術專業人員和 AI 工程師
+* **學習目標**：設定 GitHub Copilot for Azure 的起始步驟
+* **實作內容**：設定您的 AI 輔助工作環境
+
 ## 前置閱讀：
-- [什麼是 GitHub Copilot for Azure Preview？](https://learn.microsoft.com/azure/developer/github-copilot-azure/introduction)
- 
+
+* [什麼是 GitHub Copilot for Azure Preview？](https://learn.microsoft.com/azure/developer/github-copilot-azure/introduction)
+
 ## 👉 前置條件
 
-要完成此實驗室中的步驟，請確保您具備：
+要完成此實作練習，請確保您具備：
 
-1. 一個 Azure 帳戶和對 Azure 訂閱的訪問權限。詳細設置方法請參見 [Azure 帳戶的定價頁面。](https://azure.microsoft.com/pricing/purchase-options/azure-account)
+1. Azure 帳戶和訂閱權限。詳細設定方式請參考 [Azure 帳戶的定價頁面](https://azure.microsoft.com/pricing/purchase-options/azure-account)
 
-1. 一個 GitHub 帳戶。設置帳戶的步驟可以在這裡找到：[在 GitHub 上創建帳戶](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
-  
-1. GitHub Copilot 訂閱。啟用 GitHub Copilot 的詳細信息可以在這裡找到：[GitHub Copilot 快速入門](https://docs.github.com/en/copilot/quickstart)
+2. GitHub 帳戶。設定帳戶的步驟可以在此處找到：[在 GitHub 上建立帳戶](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 
-1. Visual Studio Code。下載和安裝的詳細信息請參見 [設置 Visual Studio Code。](https://code.visualstudio.com/docs/setup/setup-overview)
+3. GitHub Copilot 訂閱。啟用 GitHub Copilot 的詳細資訊可以在此處找到：[GitHub Copilot 快速入門](https://docs.github.com/en/copilot/quickstart)
 
-1. GitHub Copilot 擴展和 GitHub Copilot Chat 擴展。安裝此擴展的說明請參見 [在 VS Code 中設置 GitHub Copilot。](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
- 
+4. Visual Studio Code。下載和安裝的詳細資訊請參考 [設定 Visual Studio Code](https://code.visualstudio.com/docs/setup/setup-overview)
+
+5. GitHub Copilot 擴充功能和 GitHub Copilot Chat 擴充功能。安裝此擴充功能的說明請參考 [在 VS Code 中設定 GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+
 ## 💪🏽 練習
- 
-### 🛠 步驟 1：對 GitHub 進行身份驗證並登錄 GitHub Copilot 聊天，以啟用 Azure Preview 的 Copilot
 
-**右鍵單擊以下 Codespaces 按鈕以在新標籤中打開您的 Codespace**
+### 🛠 步驟 1：對 GitHub 進行身份驗證並登入 GitHub Copilot 聊天，以啟用 Azure Preview 的 Copilot
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+**在新分頁中開啟您的 Codespace，請按右鍵點擊下方的 Codespaces 按鈕**
 
-1. 打開 VS Code 後，在右側，點擊 **"使用 GitHub.com 帳戶登錄"**。
+[![在 GitHub Codespaces 中開啟](https://github.com/codespaces/badge.svg)](https://codespaces.new/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 
-    1. Visual Studio Code 將彈出一條消息，詢問 **"擴展 'GitHub Copilot Chat' 想要使用 GitHub 登錄。"** 點擊 **允許**。
+1. 開啟 VS Code 後，在右側點擊 **「使用 GitHub.com 帳戶登入」**。
 
-    1. 您需要授權 Visual Studio Code 以繼續用戶登錄。點擊 **繼續** 按鈕。
+   1. Visual Studio Code 將顯示訊息：**「擴充功能 'GitHub Copilot Chat' 想要使用 GitHub 登入」**。點擊 **允許**。
 
-    1. 通過點擊 **授權 Visual-Studio-Code** 按鈕來完成授權。
+   2. 您需要授權 Visual Studio Code 以繼續使用者登入。點擊 **繼續** 按鈕。
 
-    1. 將彈出一條消息詢問是否打開 VS Code。點擊 **打開**。您將返回到 VS Code，並且將通過 GitHub 驗證，並將訪問 **GitHub Copilot**。
+   3. 點擊 **授權 Visual-Studio-Code** 按鈕完成授權。
 
-1. 在 Visual Studio Code 中，選擇 **擴展** 圖標。
+   4. 系統將詢問是否開啟 VS Code。點擊 **開啟**。您將返回 VS Code，並通過 GitHub 驗證取得 **GitHub Copilot** 存取權限。
 
-1. 驗證您是否已安裝以下擴展。
-    1. **Azure Tools**
-    1. **GitHub Copilot**
-    1. **GitHub Copilot Chat**
-    1. **GitHub Copilot for Azure**
-    1. **.NET Install**
-    1. **Python**
-   
-1. 如果缺少任何一個，請從市場安裝它。
+2. 在 Visual Studio Code 中，選擇 **擴充功能** 圖示。
+
+3. 確認您已安裝以下擴充功能：
+   1. **Azure Tools**
+   2. **GitHub Copilot**
+   3. **GitHub Copilot Chat**
+   4. **GitHub Copilot for Azure**
+   5. **.NET Install**
+   6. **Python**
+
+4. 如果缺少任何一個，請從市集安裝。
 
 ### ✍️ 步驟 2：編寫您的第一個提示
 
-1. 現在擴展已安裝，您已正確驗證，並且擴展正常運行。
+1. 現在擴充功能已安裝，您已正確驗證，且擴充功能正常運作。
 
-1. 在活動欄上，如果 **Ask Copilot** 面板關閉，請選擇 **聊天** 圖標。
+2. 在活動列上，如果 **Ask Copilot** 面板已關閉，請選擇 **聊天** 圖示。
 
-1. 在聊天面板底部的文本區域中，輸入以下提示：
+3. 在聊天面板底部的文字區域中，輸入以下提示：
 
 ```prompt
-@azure Do I have any resources currently running?
+@azure 我目前是否有任何資源正在執行？
 ```
-> 在下一部分中，您將被要求多次授權應用程序和服務。這是為了保護您，並且只會進行一次。我們正在授權 **GitHub**、**VS Code** 和 **Azure** 信任提供的憑據的提示。
 
-1. 您可能會在 GitHub Copilot Chat 面板中收到一條消息，指出 "您需要登錄您的 Microsoft 帳戶以使用 GitHub Copilot for Azure (@Azure)"。
+> 在接下來的部分中，您將被要求多次授權應用程式和服務。這是為了保護您的安全，且只需執行一次。我們正在授權 **GitHub**、**VS Code** 和 **Azure** 信任所提供的憑證。
 
-    1. 如果您收到，請點擊 **"已經有帳戶？登錄"** 行中的鏈接。
-    1. Visual Studio Code 將彈出一條消息，詢問 **"擴展 'GitHub Copilot for Azure' 想要使用 Microsoft 登錄。"** 點擊 **允許**。
-    1. 使用現有會話中的憑據登錄，或使用實驗室說明的資源標籤中找到的憑據。與 Azure 訂閱相同的憑據。
-    1. 關閉標籤頁。不要關閉瀏覽器。
-    1. 返回到 VS Code。Visual Studio Code 將彈出一條消息，詢問 **"擴展 'GitHub Copilot for Azure' 想要訪問 GitHub Copilot Chat 提供的語言模型。"** 點擊 **允許**。
-    1. Visual Studio Code 將彈出另一條消息，詢問 **"擴展 'GitHub Copilot for Azure' 想要使用 GitHub 登錄。"** 再次點擊 **允許**。
-        1. 您需要授權 Visual Studio Code 以繼續用戶登錄。點擊 **繼續** 按鈕。
-        1. 通過點擊 **授權 Visual-Studio-Code** 按鈕來完成授權。
-        1. 將彈出一條消息詢問是否打開 VS Code。點擊 **打開**。您將返回到 VS Code，並且將通過 GitHub 驗證，並將訪問 **GitHub Copilot**。
+1. 您可能會在 GitHub Copilot Chat 面板中收到訊息：「您需要登入您的 Microsoft 帳戶以使用 GitHub Copilot for Azure (@Azure)」。
 
-1. Copilot for Azure 擴展將查詢 Azure 資源圖，為您提供資源查詢並提供答案。此時應該顯示 **您當前在所有訂閱中沒有任何正在運行的資源。**
+   1. 若收到此訊息，請點擊 **「已有帳戶？登入」** 中的連結。
+   2. Visual Studio Code 將顯示訊息：**「擴充功能 'GitHub Copilot for Azure' 想要使用 Microsoft 登入」**。點擊 **允許**。
+   3. 使用現有工作階段的憑證登入，或使用實作說明中的資源分頁提供的憑證。與 Azure 訂閱相同的憑證。
+   4. 關閉分頁。請勿關閉瀏覽器。
+   5. 返回 VS Code。Visual Studio Code 將顯示訊息：**「擴充功能 'GitHub Copilot for Azure' 想要存取 GitHub Copilot Chat 提供的語言模型」**。點擊 **允許**。
+   6. Visual Studio Code 將顯示另一則訊息：**「擴充功能 'GitHub Copilot for Azure' 想要使用 GitHub 登入」**。再次點擊 **允許**。
+      1. 您需要授權 Visual Studio Code 以繼續使用者登入。點擊 **繼續** 按鈕。
+      2. 點擊 **授權 Visual-Studio-Code** 按鈕完成授權。
+      3. 系統將詢問是否開啟 VS Code。點擊 **開啟**。您將返回 VS Code，並通過 GitHub 驗證取得 **GitHub Copilot** 存取權限。
+
+2. Copilot for Azure 擴充功能將查詢 Azure 資源圖，為您提供資源查詢並回應。此時應該顯示 **您目前在所有訂閱中沒有任何執行中的資源。**
 
 ### 結論
 
-恭喜您，通過這個練習，您已經設置了 VS Code 以使用 GitHub Copilot for Azure，並詢問它告知您在 Azure 訂閱中運行的任何資源。
-
-**免責聲明**：
-本文件是使用基於機器的人工智能翻譯服務進行翻譯的。雖然我們努力追求準確性，但請注意，自動翻譯可能包含錯誤或不準確之處。原始文件的母語版本應被視為權威來源。對於關鍵信息，建議使用專業人類翻譯。我們對因使用本翻譯而產生的任何誤解或誤譯不承擔責任。
+恭喜您，透過這個練習，您已經設定 VS Code 以使用 GitHub Copilot for Azure，並成功查詢 Azure 訂閱中執行的資源狀態。

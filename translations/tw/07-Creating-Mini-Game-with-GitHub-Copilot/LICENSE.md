@@ -1,166 +1,395 @@
-# 創用CC 4.0 國際版
+Attribution 4.0 International
 
 =======================================================================
 
-創用CC公司（"創用CC"）並非法律事務所，且不提供法律服務或法律建議。發放創用CC公共授權不會產生律師與客戶或其他關係。創用CC以「現狀」提供其授權及相關資訊。創用CC不對其授權、根據其條款和條件授權的任何材料或任何相關資訊提供任何保證。創用CC對因使用其授權而導致的損害不承擔任何責任，範圍達到法律允許的最大程度。
+Creative Commons Corporation ("Creative Commons") is not a law firm and
+does not provide legal services or legal advice. Distribution of
+Creative Commons public licenses does not create a lawyer-client or
+other relationship. Creative Commons makes its licenses and related
+information available on an "as-is" basis. Creative Commons gives no
+warranties regarding its licenses, any material licensed under their
+terms and conditions, or any related information. Creative Commons
+disclaims all liability for damages resulting from their use to the
+fullest extent possible.
 
-## 使用創用CC公共授權
+Using Creative Commons Public Licenses
 
-創用CC公共授權提供了一套標準的條款和條件，創作者和其他權利持有人可以使用這些條款和條件來分享原創作品及其他受版權和某些其他權利保護的材料。以下考量僅供參考，並不詳盡，且不構成我們授權的一部分。
+Creative Commons public licenses provide a standard set of terms and
+conditions that creators and other rights holders may use to share
+original works of authorship and other material subject to copyright
+and certain other rights specified in the public license below. The
+following considerations are for informational purposes only, are not
+exhaustive, and do not form part of our licenses.
 
-- **對於授權人的考量**：我們的公共授權旨在供那些被授權者使用，以便向公眾授予使用材料的許可，這些使用方式在版權和某些其他權利的限制下。 我們的授權是不可撤銷的。授權人在應用其選擇的授權之前，應閱讀並理解該授權的條款和條件。授權人還應確保在應用我們的授權之前獲得所有必要的權利，以便公眾可以如預期般重用該材料。授權人應明確標示任何不受該授權約束的材料，包括其他CC授權的材料，或根據版權的例外或限制使用的材料。更多授權人考量：
-  [wiki.creativecommons.org/Considerations_for_licensors](https://wiki.creativecommons.org/Considerations_for_licensors)
+     Considerations for licensors: Our public licenses are
+     intended for use by those authorized to give the public
+     permission to use material in ways otherwise restricted by
+     copyright and certain other rights. Our licenses are
+     irrevocable. Licensors should read and understand the terms
+     and conditions of the license they choose before applying it.
+     Licensors should also secure all rights necessary before
+     applying our licenses so that the public can reuse the
+     material as expected. Licensors should clearly mark any
+     material not subject to the license. This includes other CC-
+     licensed material, or material used under an exception or
+     limitation to copyright. More considerations for licensors:
+	wiki.creativecommons.org/Considerations_for_licensors
 
-- **對於公眾的考量**：通過使用我們的公共授權，授權人授予公眾根據指定的條款和條件使用授權材料的許可。如果授權人的許可在任何情況下不必要——例如，因為有適用的例外或限制版權——那麼該使用不受該授權的規範。我們的授權僅授予授權人有權授予的版權和某些其他權利下的許可。授權材料的使用可能仍然因其他原因受到限制，包括因為其他人對該材料擁有版權或其他權利。授權人可以提出特別要求，例如要求標示或描述所有更改。雖然我們的授權不要求這樣做，但鼓勵您在合理的情況下尊重這些要求。更多公眾考量：
-  [wiki.creativecommons.org/Considerations_for_licensees](https://wiki.creativecommons.org/Considerations_for_licensees)
+     Considerations for the public: By using one of our public
+     licenses, a licensor grants the public permission to use the
+     licensed material under specified terms and conditions. If
+     the licensor's permission is not necessary for any reason--for
+     example, because of any applicable exception or limitation to
+     copyright--then that use is not regulated by the license. Our
+     licenses grant only permissions under copyright and certain
+     other rights that a licensor has authority to grant. Use of
+     the licensed material may still be restricted for other
+     reasons, including because others have copyright or other
+     rights in the material. A licensor may make special requests,
+     such as asking that all changes be marked or described.
+     Although not required by our licenses, you are encouraged to
+     respect those requests where reasonable. More_considerations
+     for the public:
+	wiki.creativecommons.org/Considerations_for_licensees
 
 =======================================================================
 
-## 創用CC 4.0 國際公共授權
+Creative Commons Attribution 4.0 International Public License
+
+By exercising the Licensed Rights (defined below), You accept and agree
+to be bound by the terms and conditions of this Creative Commons
+Attribution 4.0 International Public License ("Public License"). To the
+extent this Public License may be interpreted as a contract, You are
+granted the Licensed Rights in consideration of Your acceptance of
+these terms and conditions, and the Licensor grants You such rights in
+consideration of benefits the Licensor receives from making the
+Licensed Material available under these terms and conditions.
+
+
+Section 1 -- Definitions.
+
+  a. Adapted Material means material subject to Copyright and Similar
+     Rights that is derived from or based upon the Licensed Material
+     and in which the Licensed Material is translated, altered,
+     arranged, transformed, or otherwise modified in a manner requiring
+     permission under the Copyright and Similar Rights held by the
+     Licensor. For purposes of this Public License, where the Licensed
+     Material is a musical work, performance, or sound recording,
+     Adapted Material is always produced where the Licensed Material is
+     synched in timed relation with a moving image.
+
+  b. Adapter's License means the license You apply to Your Copyright
+     and Similar Rights in Your contributions to Adapted Material in
+     accordance with the terms and conditions of this Public License.
+
+  c. Copyright and Similar Rights means copyright and/or similar rights
+     closely related to copyright including, without limitation,
+     performance, broadcast, sound recording, and Sui Generis Database
+     Rights, without regard to how the rights are labeled or
+     categorized. For purposes of this Public License, the rights
+     specified in Section 2(b)(1)-(2) are not Copyright and Similar
+     Rights.
+
+  d. Effective Technological Measures means those measures that, in the
+     absence of proper authority, may not be circumvented under laws
+     fulfilling obligations under Article 11 of the WIPO Copyright
+     Treaty adopted on December 20, 1996, and/or similar international
+     agreements.
+
+  e. Exceptions and Limitations means fair use, fair dealing, and/or
+     any other exception or limitation to Copyright and Similar Rights
+     that applies to Your use of the Licensed Material.
+
+  f. Licensed Material means the artistic or literary work, database,
+     or other material to which the Licensor applied this Public
+     License.
+
+  g. Licensed Rights means the rights granted to You subject to the
+     terms and conditions of this Public License, which are limited to
+     all Copyright and Similar Rights that apply to Your use of the
+     Licensed Material and that the Licensor has authority to license.
+
+  h. Licensor means the individual(s) or entity(ies) granting rights
+     under this Public License.
+
+  i. Share means to provide material to the public by any means or
+     process that requires permission under the Licensed Rights, such
+     as reproduction, public display, public performance, distribution,
+     dissemination, communication, or importation, and to make material
+     available to the public including in ways that members of the
+     public may access the material from a place and at a time
+     individually chosen by them.
+
+  j. Sui Generis Database Rights means rights other than copyright
+     resulting from Directive 96/9/EC of the European Parliament and of
+     the Council of 11 March 1996 on the legal protection of databases,
+     as amended and/or succeeded, as well as other essentially
+     equivalent rights anywhere in the world.
+
+  k. You means the individual or entity exercising the Licensed Rights
+     under this Public License. Your has a corresponding meaning.
+
+
+Section 2 -- Scope.
+
+  a. License grant.
+
+       1. Subject to the terms and conditions of this Public License,
+          the Licensor hereby grants You a worldwide, royalty-free,
+          non-sublicensable, non-exclusive, irrevocable license to
+          exercise the Licensed Rights in the Licensed Material to:
+
+            a. reproduce and Share the Licensed Material, in whole or
+               in part; and
+
+            b. produce, reproduce, and Share Adapted Material.
+
+       2. Exceptions and Limitations. For the avoidance of doubt, where
+          Exceptions and Limitations apply to Your use, this Public
+          License does not apply, and You do not need to comply with
+          its terms and conditions.
+
+       3. Term. The term of this Public License is specified in Section
+          6(a).
+
+       4. Media and formats; technical modifications allowed. The
+          Licensor authorizes You to exercise the Licensed Rights in
+          all media and formats whether now known or hereafter created,
+          and to make technical modifications necessary to do so. The
+          Licensor waives and/or agrees not to assert any right or
+          authority to forbid You from making technical modifications
+          necessary to exercise the Licensed Rights, including
+          technical modifications necessary to circumvent Effective
+          Technological Measures. For purposes of this Public License,
+          simply making modifications authorized by this Section 2(a)
+          (4) never produces Adapted Material.
+
+       5. Downstream recipients.
 
-通過行使授權權利（定義見下文），您接受並同意遵守本創用CC 4.0 國際公共授權（"公共授權"）的條款和條件。在本公共授權可被解釋為合同的範疇內，您接受這些條款和條件作為獲得授權權利的考量，而授權人則基於將授權材料根據這些條款和條件提供給您所獲得的利益而授予您這些權利。
+            a. Offer from the Licensor -- Licensed Material. Every
+               recipient of the Licensed Material automatically
+               receives an offer from the Licensor to exercise the
+               Licensed Rights under the terms and conditions of this
+               Public License.
+
+            b. No downstream restrictions. You may not offer or impose
+               any additional or different terms or conditions on, or
+               apply any Effective Technological Measures to, the
+               Licensed Material if doing so restricts exercise of the
+               Licensed Rights by any recipient of the Licensed
+               Material.
 
-### 第1節 -- 定義
+       6. No endorsement. Nothing in this Public License constitutes or
+          may be construed as permission to assert or imply that You
+          are, or that Your use of the Licensed Material is, connected
+          with, or sponsored, endorsed, or granted official status by,
+          the Licensor or others designated to receive attribution as
+          provided in Section 3(a)(1)(A)(i).
 
-  a. **改編材料**是指受版權和相似權利保護的材料，該材料源自或基於授權材料，並且在其中授權材料以需要獲得授權的方式進行翻譯、改變、安排、轉換或以其他方式修改。就本公共授權而言，當授權材料為音樂作品、表演或聲音錄音時，改編材料總是指當授權材料與動態影像同步時所產生的材料。
+  b. Other rights.
 
-  b. **改編者的授權**是指您根據本公共授權的條款和條件，對您對改編材料的貢獻所適用的版權和相似權利的授權。
+       1. Moral rights, such as the right of integrity, are not
+          licensed under this Public License, nor are publicity,
+          privacy, and/or other similar personality rights; however, to
+          the extent possible, the Licensor waives and/or agrees not to
+          assert any such rights held by the Licensor to the limited
+          extent necessary to allow You to exercise the Licensed
+          Rights, but not otherwise.
+
+       2. Patent and trademark rights are not licensed under this
+          Public License.
+
+       3. To the extent possible, the Licensor waives any right to
+          collect royalties from You for the exercise of the Licensed
+          Rights, whether directly or through a collecting society
+          under any voluntary or waivable statutory or compulsory
+          licensing scheme. In all other cases the Licensor expressly
+          reserves any right to collect such royalties.
+
+
+Section 3 -- License Conditions.
+
+Your exercise of the Licensed Rights is expressly made subject to the
+following conditions.
+
+  a. Attribution.
+
+       1. If You Share the Licensed Material (including in modified
+          form), You must:
+
+            a. retain the following if it is supplied by the Licensor
+               with the Licensed Material:
+
+                 i. identification of the creator(s) of the Licensed
+                    Material and any others designated to receive
+                    attribution, in any reasonable manner requested by
+                    the Licensor (including by pseudonym if
+                    designated);
+
+                ii. a copyright notice;
+
+               iii. a notice that refers to this Public License;
+
+                iv. a notice that refers to the disclaimer of
+                    warranties;
+
+                 v. a URI or hyperlink to the Licensed Material to the
+                    extent reasonably practicable;
+
+            b. indicate if You modified the Licensed Material and
+               retain an indication of any previous modifications; and
 
-  c. **版權和相似權利**是指版權和/或與版權密切相關的相似權利，包括但不限於表演權、廣播權、聲音錄音權和Sui Generis資料庫權利，而不考慮這些權利的標籤或類別。就本公共授權而言，第2節(b)(1)-(2)中指定的權利不屬於版權和相似權利。
+            c. indicate the Licensed Material is licensed under this
+               Public License, and include the text of, or the URI or
+               hyperlink to, this Public License.
 
-  d. **有效技術措施**是指在缺乏適當授權的情況下，根據1996年12月20日通過的WIPO版權條約第11條履行義務的法律，可能無法繞過的措施，及/或類似的國際協議。
+       2. You may satisfy the conditions in Section 3(a)(1) in any
+          reasonable manner based on the medium, means, and context in
+          which You Share the Licensed Material. For example, it may be
+          reasonable to satisfy the conditions by providing a URI or
+          hyperlink to a resource that includes the required
+          information.
 
-  e. **例外和限制**是指合理使用、公平交易和/或適用於您使用授權材料的任何其他版權和相似權利的例外或限制。
+       3. If requested by the Licensor, You must remove any of the
+          information required by Section 3(a)(1)(A) to the extent
+          reasonably practicable.
 
-  f. **授權材料**是指授權人對其適用本公共授權的藝術或文學作品、資料庫或其他材料。
+       4. If You Share Adapted Material You produce, the Adapter's
+          License You apply must not prevent recipients of the Adapted
+          Material from complying with this Public License.
 
-  g. **授權權利**是指根據本公共授權的條款和條件授予您的權利，這些權利僅限於適用於您使用授權材料的所有版權和相似權利，且授權人有權授予這些權利。
 
-  h. **授權人**是指根據本公共授權授予權利的個人或實體。
+Section 4 -- Sui Generis Database Rights.
 
-  i. **分享**是指通過任何需要根據授權權利獲得許可的方式或過程向公眾提供材料，例如複製、公開展示、公開表演、分發、散發、通信或進口，並使材料可供公眾使用，包括使公眾能夠從他們個別選擇的地方和時間訪問材料。
+Where the Licensed Rights include Sui Generis Database Rights that
+apply to Your use of the Licensed Material:
 
-  j. **Sui Generis資料庫權利**是指根據1996年3月11日歐洲議會和理事會第96/9/EC號指令關於資料庫的法律保護所產生的版權以外的權利，該指令已被修訂和/或取代，以及世界任何地方的其他實質上等效的權利。
+  a. for the avoidance of doubt, Section 2(a)(1) grants You the right
+     to extract, reuse, reproduce, and Share all or a substantial
+     portion of the contents of the database;
 
-  k. **您**是指根據本公共授權行使授權權利的個人或實體。**您的**有相應的意義。
+  b. if You include all or a substantial portion of the database
+     contents in a database in which You have Sui Generis Database
+     Rights, then the database in which You have Sui Generis Database
+     Rights (but not its individual contents) is Adapted Material; and
 
-### 第2節 -- 範圍
+  c. You must comply with the conditions in Section 3(a) if You Share
+     all or a substantial portion of the contents of the database.
 
-  a. **授權授予**。
+For the avoidance of doubt, this Section 4 supplements and does not
+replace Your obligations under this Public License where the Licensed
+Rights include other Copyright and Similar Rights.
 
-       1. 根據本公共授權的條款和條件，授權人特此授予您全球性、免版稅、不可轉授的、非獨占的、不可撤銷的授權，以便在授權材料中行使授權權利，以：
 
-            a. 完全或部分複製和分享授權材料；及
+Section 5 -- Disclaimer of Warranties and Limitation of Liability.
 
-            b. 製作、複製和分享改編材料。
+  a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE
+     EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS
+     AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF
+     ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS,
+     IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION,
+     WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR
+     PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS,
+     ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT
+     KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT
+     ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.
 
-       2. **例外和限制**。為避免疑義，當例外和限制適用於您的使用時，本公共授權不適用，您不需要遵守其條款和條件。
+  b. TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE
+     TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION,
+     NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT,
+     INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES,
+     COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR
+     USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN
+     ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR
+     DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR
+     IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.
 
-       3. **期限**。本公共授權的期限在第6(a)節中規定。
+  c. The disclaimer of warranties and limitation of liability provided
+     above shall be interpreted in a manner that, to the extent
+     possible, most closely approximates an absolute disclaimer and
+     waiver of all liability.
 
-       4. **媒介和格式；允許的技術修改**。授權人授權您在所有媒介和格式中行使授權權利，無論是現在已知還是將來創建的，並進行必要的技術修改。授權人放棄和/或同意不主張禁止您進行必要的技術修改，以行使授權權利，包括為繞過有效技術措施而進行的技術修改。就本公共授權而言，僅僅進行本第2(a)(4)節授權的修改，從不產生改編材料。
 
-       5. **下游接收者**。
+Section 6 -- Term and Termination.
 
-            a. **來自授權人的提議 -- 授權材料**。每位授權材料的接收者自動接收來自授權人的提議，以根據本公共授權的條款和條件行使授權權利。
+  a. This Public License applies for the term of the Copyright and
+     Similar Rights licensed here. However, if You fail to comply with
+     this Public License, then Your rights under this Public License
+     terminate automatically.
 
-            b. **無下游限制**。如果這樣做限制任何授權材料接收者行使授權權利，您不得對授權材料提供或施加任何附加或不同的條款或條件，或對授權材料應用任何有效技術措施。
+  b. Where Your right to use the Licensed Material has terminated under
+     Section 6(a), it reinstates:
 
-       6. **無背書**。本公共授權中的任何內容均不構成或可被解釋為授權您主張或暗示您與授權人或其他被指定接收歸屬的人的連結、贊助、背書或授予官方地位的許可，如第3(a)(1)(A)(i)節所述。
+       1. automatically as of the date the violation is cured, provided
+          it is cured within 30 days of Your discovery of the
+          violation; or
 
-  b. **其他權利**。
+       2. upon express reinstatement by the Licensor.
 
-       1. 道德權利，例如完整性權，並未在本公共授權下授權，亦不包括公開、隱私和/或其他類似的人格權；但是，在可能的範圍內，授權人放棄和/或同意不主張授權人持有的任何此類權利，限於允許您行使授權權利所必需的範圍，但不包括其他情況。
+     For the avoidance of doubt, this Section 6(b) does not affect any
+     right the Licensor may have to seek remedies for Your violations
+     of this Public License.
 
-       2. 專利和商標權並未在本公共授權下授權。
+  c. For the avoidance of doubt, the Licensor may also offer the
+     Licensed Material under separate terms or conditions or stop
+     distributing the Licensed Material at any time; however, doing so
+     will not terminate this Public License.
 
-       3. 在可能的範圍內，授權人放棄對您行使授權權利收取版稅的任何權利，無論是直接還是通過任何自願或可放棄的法定或強制性授權計劃。在所有其他情況下，授權人明確保留收取此類版稅的任何權利。
+  d. Sections 1, 5, 6, 7, and 8 survive termination of this Public
+     License.
 
-### 第3節 -- 授權條件
 
-您行使授權權利明確受到以下條件的約束。
+Section 7 -- Other Terms and Conditions.
 
-  a. **歸屬**。
+  a. The Licensor shall not be bound by any additional or different
+     terms or conditions communicated by You unless expressly agreed.
 
-       1. 如果您分享授權材料（包括修改後的形式），您必須：
+  b. Any arrangements, understandings, or agreements regarding the
+     Licensed Material not stated herein are separate from and
+     independent of the terms and conditions of this Public License.
 
-            a. 保留以下內容（如果授權人隨授權材料提供）：
 
-                 i. 授權材料創作者的識別及任何其他被指定接收歸屬的人，以授權人要求的任何合理方式（包括如果被指定則使用筆名）；
+Section 8 -- Interpretation.
 
-                ii. 版權聲明；
+  a. For the avoidance of doubt, this Public License does not, and
+     shall not be interpreted to, reduce, limit, restrict, or impose
+     conditions on any use of the Licensed Material that could lawfully
+     be made without permission under this Public License.
 
-               iii. 提及本公共授權的通知；
+  b. To the extent possible, if any provision of this Public License is
+     deemed unenforceable, it shall be automatically reformed to the
+     minimum extent necessary to make it enforceable. If the provision
+     cannot be reformed, it shall be severed from this Public License
+     without affecting the enforceability of the remaining terms and
+     conditions.
 
-                iv. 提及免責聲明的通知；
+  c. No term or condition of this Public License will be waived and no
+     failure to comply consented to unless expressly agreed to by the
+     Licensor.
 
-                 v. 在合理可行的範圍內提供指向授權材料的URI或超鏈接；
+  d. Nothing in this Public License constitutes or may be interpreted
+     as a limitation upon, or waiver of, any privileges and immunities
+     that apply to the Licensor or You, including from the legal
+     processes of any jurisdiction or authority.
 
-            b. 表明您是否修改了授權材料，並保留任何先前修改的指示；以及
-
-            c. 表明授權材料是根據本公共授權授權的，並包括本公共授權的文本或URI或超鏈接。
-
-       2. 您可以根據您分享授權材料的媒介、方式和上下文，以任何合理的方式滿足第3(a)(1)節中的條件。例如，通過提供指向包含所需信息的資源的URI或超鏈接來滿足條件可能是合理的。
-
-       3. 如果授權人要求，您必須在合理可行的範圍內刪除第3(a)(1)(A)節所要求的任何信息。
-
-       4. 如果您分享您製作的改編材料，您所應用的改編者授權不得妨礙改編材料的接收者遵守本公共授權。
-
-### 第4節 -- Sui Generis資料庫權利
-
-當授權權利包括適用於您使用授權材料的Sui Generis資料庫權利時：
-
-  a. 為避免疑義，第2節(a)(1)授予您提取、重用、複製和分享資料庫內容的所有或實質性部分的權利；
-
-  b. 如果您將資料庫的所有或實質性部分內容包含在您擁有Sui Generis資料庫權利的資料庫中，那麼您擁有Sui Generis資料庫權利的資料庫（但不是其單獨內容）即為改編材料；以及
-
-  c. 如果您分享資料庫的所有或實質性部分內容，您必須遵守第3(a)節中的條件。
-
-為避免疑義，本第4節補充並不取代您根據本公共授權的義務，當授權權利包括其他版權和相似權利時。
-
-### 第5節 -- 免責聲明及責任限制
-
-  a. 除非授權人另有明確承諾，否則在可能的範圍內，授權人以現狀及可用狀態提供授權材料，並不對授權材料的任何類型做出任何陳述或保證，無論是明示、暗示、法定還是其他類型的。這包括但不限於所有權、適銷性、特定用途的適合性、不侵權、潛在或其他缺陷的缺失、準確性或錯誤的存在或缺失，無論是否已知或可發現。在不允許全部或部分免責的情況下，本免責聲明可能不適用於您。
-
-  b. 在可能的範圍內，授權人對您不承擔任何法律理論（包括但不限於過失）或其他原因引起的任何直接、特殊、間接、附帶、後果性、懲罰性、示範性或其他損失、成本、開支或損害的責任，即使授權人已被告知此類損失、成本、開支或損害的可能性。在不允許全部或部分責任限制的情況下，本限制可能不適用於您。
-
-  c. 上述免責聲明及責任限制應以能夠在可能的範圍內，最接近完全免責及放棄所有責任的方式解釋。
-
-### 第6節 -- 期限及終止
-
-  a. 本公共授權適用於此處授權的版權和相似權利的期限。然而，如果您未能遵守本公共授權，則您在本公共授權下的權利將自動終止。
-
-  b. 當您的使用授權根據第6(a)節終止時，它將自動恢復：
-
-       1. 在違規被修正之日自動恢復，前提是它在您發現違規後的30天內被修正；或
-
-       2. 經授權人明確恢復。
-
-     為避免疑義，本第6(b)節不影響授權人對您違反本公共授權所擁有的任何尋求救濟的權利。
-
-  c. 為避免疑義，授權人也可以根據單獨的條款或條件提供授權材料，或隨時停止分發授權材料；然而，這樣做不會終止本公共授權。
-
-  d. 第1、5、6、7和8節在本公共授權終止後仍然有效。
-
-### 第7節 -- 其他條款和條件
-
-  a. 除非明確同意，授權人不受您所傳達的任何附加或不同條款或條件的約束。
-
-  b. 任何未在此聲明的有關授權材料的安排、理解或協議均與本公共授權的條款和條件分開且獨立。
-
-### 第8節 -- 解釋
-
-  a. 為避免疑義，本公共授權不會，也不應被解釋為，減少、限制、限制或對任何可以合法進行的授權材料使用施加條件，而無需本公共授權的許可。
-
-  b. 在可能的範圍內，如果本公共授權的任何條款被視為不可執行，則應自動重新修訂至最低限度以使其可執行。如果該條款無法被修訂，則應與本公共授權分離，而不影響其餘條款和條件的可執行性。
-
-  c. 本公共授權的任何條款或條件都不會被放棄，且除非授權人明確同意，否則不會同意不遵守。
-
-  d. 本公共授權中的任何內容均不構成或可被解釋為對授權人或您所適用的任何特權和豁免的限制或放棄，包括來自任何司法管轄區或權威的法律程序。
 
 =======================================================================
 
-創用CC並非其公共授權的當事方。儘管如此，創用CC可以選擇將其公共授權應用於其發布的材料，並在這些情況下將被視為「授權人」。創用CC公共授權的文本根據CC0公共領域貢獻專用於公共領域。除非出於指示材料根據創用CC公共授權共享或根據創用CC在 [creativecommons.org/policies](https://creativecommons.org/policies) 公布的政策所允許的其他目的，否則創用CC不授權使用「創用CC」商標或任何其他創用CC的商標或
+Creative Commons is not a party to its public
+licenses. Notwithstanding, Creative Commons may elect to apply one of
+its public licenses to material it publishes and in those instances
+will be considered the “Licensor.” The text of the Creative Commons
+public licenses is dedicated to the public domain under the CC0 Public
+Domain Dedication. Except for the limited purpose of indicating that
+material is shared under a Creative Commons public license or as
+otherwise permitted by the Creative Commons policies published at
+creativecommons.org/policies, Creative Commons does not authorize the
+use of the trademark "Creative Commons" or any other trademark or logo
+of Creative Commons without its prior written consent including,
+without limitation, in connection with any unauthorized modifications
+to any of its public licenses or any other arrangements,
+understandings, or agreements concerning use of licensed material. For
+the avoidance of doubt, this paragraph does not form part of the
+public licenses.
 
-**免責聲明**：  
-本文件是使用機器翻譯的 AI 翻譯服務進行翻譯的。雖然我們努力追求準確性，但請注意，自動翻譯可能包含錯誤或不準確之處。原始文件的母語版本應被視為權威來源。對於關鍵信息，建議使用專業人工翻譯。我們對因使用此翻譯而產生的任何誤解或誤讀不承擔責任。
+Creative Commons may be contacted at creativecommons.org.
